@@ -1,0 +1,5 @@
+{
+  "name": "GlobalPulse News Scraper",
+  "description": "A real-time global news aggregator that scrapes top headlines from international sources like BBC, Reuters, and Al Jazeera.",
+  "requestFramePermissions": []
+}
